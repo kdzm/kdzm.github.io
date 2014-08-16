@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>kdz orz</title><link>http://www.kdzlol.com/</link><description></description><atom:link href="http://www.kdzlol.com/feeds/about.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 03 Aug 2014 00:00:00 +0800</lastBuildDate><item><title>示例页面</title><link>http://www.kdzlol.com/example.html</link><description>&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="err"&gt;这是示范页面。页面和博客文章不同，它的位置是固定的，通常会在站点导航栏显示。很多用户都创建一个“关于”页面，向访客介绍自己。例如，个人博客通常有类似这样的介绍：&lt;/span&gt;
-
-&lt;span class="err"&gt;欢迎！我白天是个邮递员，晚上就是个有抱负的演员。这是我的博客。我住在天朝的帝都，有条叫做杰克的狗。&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>kdz orz</title><link>http://www.kdzlol.com/</link><description></description><atom:link href="http://www.kdzlol.com/feeds/about.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 03 Aug 2014 00:00:00 +0800</lastBuildDate><item><title>示例页面</title><link>http://www.kdzlol.com/example.html</link><description>&lt;p&gt;这是示范页面。页面和博客文章不同，它的位置是固定的，通常会在站点导航栏显示。很多用户都创建一个“关于”页面，向访客介绍自己。例如，个人博客通常有类似这样的介绍：
+&lt;br&gt;欢迎！我白天是个邮递员，晚上就是个有抱负的演员。这是我的博客。我住在天朝的帝都，有条叫做杰克的狗。&lt;/p&gt;
 &lt;p&gt;… 公司博客可以这样写：&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;XYZ&lt;/span&gt; &lt;span class="n"&gt;Doohickey&lt;/span&gt; &lt;span class="err"&gt;公司成立于&lt;/span&gt; &lt;span class="mi"&gt;1971&lt;/span&gt; &lt;span class="err"&gt;年，自从建立以来，我们一直向社会贡献着优秀&lt;/span&gt; &lt;span class="n"&gt;doohicky&lt;/span&gt;&lt;span class="err"&gt;。我们的公司总部位于天朝&lt;/span&gt;       &lt;span class="err"&gt;魔都，有着超过两千名员工，对魔都政府税收有着巨大贡献。&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;您可以访问仪表盘，删除本页面，然后添加您自己的内容。祝您使用愉快！&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">kdz</dc:creator><pubDate>Sun, 03 Aug 2014 00:00:00 +0800</pubDate><guid>tag:www.kdzlol.com,2014-08-03:example.html</guid><category>example</category></item><item><title>世界，你好！</title><link>http://www.kdzlol.com/hello-world.html</link><description>&lt;p&gt;欢迎使用 WordPress。这是系统自动生成的演示文章。编辑或者删除它，然后开始您的博客！&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">kdz</dc:creator><pubDate>Sun, 03 Aug 2014 00:00:00 +0800</pubDate><guid>tag:www.kdzlol.com,2014-08-03:hello-world.html</guid><category>hello-world</category></item></channel></rss>
+&lt;p&gt;XYZ Doohickey 公司成立于 1971 年，自从建立以来，我们一直向社会贡献着优秀 doohicky。我们的公司总部位于天朝魔都，有着超过两千名员工，对魔都政府税收有着巨大贡献。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;您可以访问仪表盘，删除本页面，然后添加您自己的内容。祝您使用愉快！&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">kdz</dc:creator><pubDate>Sun, 03 Aug 2014 00:00:00 +0800</pubDate><guid>tag:www.kdzlol.com,2014-08-03:example.html</guid><category>example</category></item><item><title>世界，你好！</title><link>http://www.kdzlol.com/hello-world.html</link><description>&lt;p&gt;欢迎使用 WordPress。这是系统自动生成的演示文章。编辑或者删除它，然后开始您的博客！&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">kdz</dc:creator><pubDate>Sun, 03 Aug 2014 00:00:00 +0800</pubDate><guid>tag:www.kdzlol.com,2014-08-03:hello-world.html</guid><category>hello-world</category></item></channel></rss>
