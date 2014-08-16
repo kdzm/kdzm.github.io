@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>kdz orz</title><link>http://www.kdzlol.com/</link><description></description><atom:link href="http://www.kdzlol.com/feeds/category.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 02 Mar 2014 14:01:01 +0800</lastBuildDate><item><title>Python - kdz orz</title><link>http://www.kdzlol.com/python-kdz-orz.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+    &lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="../" class="navbar-brand"&gt;
+kdz orz            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li class="active"&gt;
+                            &lt;a href="../category/python.html"&gt;Python&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+                &lt;li&gt;&lt;a href="../archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="../my-super-post.html"&gt;My super title&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Short version for index and feeds&lt;/p&gt;
+                    &lt;a class="btn btn-default btn-xs" href="../my-super-post.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+
+        &lt;/div&gt;
+        &lt;div class="col-sm-3 well well-sm" id="sidebar"&gt;
+
+&lt;aside&gt;
+    &lt;section&gt;
+        &lt;ul class="list-group list-group-flush"&gt;
+                &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+                  &lt;ul class="list-group" id="social"&gt;
+                    &lt;li class="list-group-item"&gt;&lt;a href="http://twitter.com/"&gt;&lt;i class="fa fa-twitter-square fa-lg"&gt;&lt;/i&gt; twitter&lt;/a&gt;&lt;/li&gt;
+                    &lt;li class="list-group-item"&gt;&lt;a href="http://lastfm.com/"&gt;&lt;i class="fa fa-lastfm-square fa-lg"&gt;&lt;/i&gt; lastfm&lt;/a&gt;&lt;/li&gt;
+                    &lt;li class="list-group-item"&gt;&lt;a href="http://github.com/"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; github&lt;/a&gt;&lt;/li&gt;
+                  &lt;/ul&gt;
+                &lt;/li&gt;
+
+
+
+                &lt;li class="list-group-item"&gt;&lt;a href="../"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                    &lt;ul class="list-group " id="tags"&gt;
+                        &lt;li class="list-group-item tag-4"&gt;
+                            &lt;a href="../tag/publishing.html"&gt;
+                                publishing
+                            &lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li class="list-group-item tag-4"&gt;
+                            &lt;a href="../tag/pelican.html"&gt;
+                                pelican
+                            &lt;/a&gt;
+                        &lt;/li&gt;
+                    &lt;/ul&gt;
+                &lt;/li&gt;    
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://biologeek.org" target="_blank"&gt;
+                Biologeek
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://filyb.info/" target="_blank"&gt;
+                Filyb
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://www.libert-fr.com" target="_blank"&gt;
+                Libert-fr
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://prendreuncafe.com/blog/" target="_blank"&gt;
+                N1k0
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://ziade.org/blog" target="_blank"&gt;
+                Tarek Ziadé
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://zubin71.wordpress.com/" target="_blank"&gt;
+                Zubin Mithra
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+
+        &lt;/ul&gt;
+    &lt;/section&gt;
+
+&lt;/aside&gt;        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2010 kdz
+            &amp;middot; Powered by 
+            &lt;a href="http://www.kdzlol.com/" target="_blank"&gt;KdzOrz&lt;/a&gt;,         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="../theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="../theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="../theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;!-- Disqus --&gt;
+    &lt;script type="text/javascript"&gt;
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'kdzm'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    &lt;/script&gt;
+    &lt;!-- End Disqus Code --&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">kdz</dc:creator><pubDate>Sun, 02 Mar 2014 14:01:01 +0800</pubDate><guid>tag:www.kdzlol.com,2014-03-02:python-kdz-orz.html</guid><category>Python</category></item></channel></rss>
