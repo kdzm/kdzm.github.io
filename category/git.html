@@ -2,7 +2,7 @@
 <html lang="cn"
 >
 <head>
-    <title>Tags - kdz orz</title>
+    <title>git - kdz orz</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -11,26 +11,27 @@
 
 
 
-        <meta name="author" content="kdz" />
+    <meta name="author" content="kdz" />
+    <meta name="keywords" content="git" />
 
     <!-- Open Graph tags -->
         <meta property="og:site_name" content="kdz orz" />
         <meta property="og:type" content="website"/>
         <meta property="og:title" content="kdz orz"/>
-        <meta property="og:url" content="."/>
+        <meta property="og:url" content=".."/>
         <meta property="og:description" content="kdz orz"/>
 
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="./theme/css/bootstrap.min.css" type="text/css"/>
-    <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="../theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="../theme/css/font-awesome.min.css" rel="stylesheet">
 
-    <link href="./theme/css/pygments/native.css" rel="stylesheet">
-    <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
+    <link href="../theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="../theme/css/style.css" type="text/css"/>
 
-        <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+        <link href="../feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
               title="kdz orz ATOM Feed"/>
-        <link href="./feeds/all.rss.xml" type="application/rss+xml" rel="alternate"
+        <link href="../feeds/all.rss.xml" type="application/rss+xml" rel="alternate"
               title="kdz orz RSS Feed"/>
 
 </head>
@@ -45,20 +46,20 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a href="./" class="navbar-brand">
+            <a href="../" class="navbar-brand">
 kdz orz            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                        <li >
-                            <a href="./category/git.html">Git</a>
+                        <li class="active">
+                            <a href="../category/git.html">Git</a>
                         </li>
                         <li >
-                            <a href="./category/about.html">About</a>
+                            <a href="../category/about.html">About</a>
                         </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="./archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+                <li><a href="../archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -69,47 +70,32 @@ kdz orz            </a>
     <div class="row">
         <div class="col-sm-9">
 
-    <section id="tags">
-        <h1>Tags for kdz orz</h1>
-        <div class="panel-group" id="accordion">            <div class="panel panel-default">
-                <div class="panel-heading">
-                    <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-example">example <span class="badge pull-right">1</span></a>
-                    </h4>
-                </div>
-                <div id="collapse-example" class="panel-collapse collapse">
-                    <div class="panel-body">
-                        <p><span class="categories-timestamp"><time datetime="2014-08-03T00:00:00">Sun 03 August 2014</time></span> <a href="./example.html">示例页面</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="panel panel-default">
-                <div class="panel-heading">
-                    <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-git">git <span class="badge pull-right">1</span></a>
-                    </h4>
-                </div>
-                <div id="collapse-git" class="panel-collapse collapse">
-                    <div class="panel-body">
-                        <p><span class="categories-timestamp"><time datetime="2014-08-18T00:00:00">Mon 18 August 2014</time></span> <a href="./git-01.html">git简明教程</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="panel panel-default">
-                <div class="panel-heading">
-                    <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-hello-world">hello-world <span class="badge pull-right">1</span></a>
-                    </h4>
-                </div>
-                <div id="collapse-hello-world" class="panel-collapse collapse">
-                    <div class="panel-body">
-                        <p><span class="categories-timestamp"><time datetime="2014-08-03T00:00:00">Sun 03 August 2014</time></span> <a href="./hello-world.html">世界，你好！</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
+            <article>
+                <h2><a href="../git-01.html">git简明教程</a></h2>
+                <div class="summary"><p>0x01 git for github
+假设已经在githua建立一个代码仓库</p>
+<div class="highlight"><pre><span class="err">$</span>  <span class="n">git</span> <span class="n">clone</span> <span class="n">https</span><span class="o">:</span><span class="c1">//github.com/kdzm/kdzm.github.io.git  ./clone_one</span>
+<span class="err">$</span>  <span class="n">cd</span>  <span class="p">.</span><span class="o">/</span><span class="n">cone</span>
+<span class="err">$</span>  <span class="n">touch</span> <span class="n">test</span><span class="p">.</span><span class="n">md</span>
+<span class="err">$</span>  <span class="n">git</span> <span class="n">add</span> <span class="o">--</span><span class="n">all</span>
+<span class="err">$</span>  <span class="n">git</span> <span class="n">status</span>  
+<span class="err">$</span>  <span class="n">git</span> <span class="n">commit</span> <span class="o">-</span><span class="n">m</span> <span class="s">&quot;add some files&quot;</span>
+<span class="err">$</span>  <span class="n">git</span> <span class="n">push</span>
+</pre></div>
 
-    </section>
+
+<p>0x02 git for local
+本地没有软件仓库</p>
+<div class="highlight"><pre><span class="err">$</span>  <span class="n">mkdir</span> <span class="n">tmp</span>
+<span class="err">$</span>  <span class="n">cd</span> <span class="n">tmp</span>
+<span class="err">$</span>  <span class="n">git</span> <span class="n">init</span>
+<span class="err">$</span>  <span class="n">touch</span> <span class="n">test</span><span class="p">.</span><span class="n">md</span>
+<span class="err">$</span>  <span class="n">git</span> <span class="n">add ...</span></pre></div>
+                    <a class="btn btn-default btn-xs" href="../git-01.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+
         </div>
         <div class="col-sm-3 well well-sm" id="sidebar">
 
@@ -125,20 +111,20 @@ kdz orz            </a>
 
 
 
-                <li class="list-group-item"><a href="./"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+                <li class="list-group-item"><a href="../"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
                     <ul class="list-group " id="tags">
                         <li class="list-group-item tag-4">
-                            <a href="./tag/example.html">
+                            <a href="../tag/example.html">
                                 example
                             </a>
                         </li>
                         <li class="list-group-item tag-4">
-                            <a href="./tag/git.html">
+                            <a href="../tag/git.html">
                                 git
                             </a>
                         </li>
                         <li class="list-group-item tag-4">
-                            <a href="./tag/hello-world.html">
+                            <a href="../tag/hello-world.html">
                                 hello-world
                             </a>
                         </li>
@@ -172,13 +158,13 @@ kdz orz            </a>
       </div>
    </div>
 </footer>
-<script src="./theme/js/jquery.min.js"></script>
+<script src="../theme/js/jquery.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="./theme/js/bootstrap.min.js"></script>
+<script src="../theme/js/bootstrap.min.js"></script>
 
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="./theme/js/respond.min.js"></script>
+<script src="../theme/js/respond.min.js"></script>
 
     <!-- Disqus -->
     <script type="text/javascript">

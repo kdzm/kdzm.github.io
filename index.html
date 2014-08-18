@@ -51,6 +51,9 @@ kdz orz            </a>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
                         <li >
+                            <a href="./category/git.html">Git</a>
+                        </li>
+                        <li >
                             <a href="./category/about.html">About</a>
                         </li>
             </ul>
@@ -66,6 +69,31 @@ kdz orz            </a>
     <div class="row">
         <div class="col-sm-9">
 
+            <article>
+                <h2><a href="./git-01.html">git简明教程</a></h2>
+                <div class="summary"><p>0x01 git for github
+假设已经在githua建立一个代码仓库</p>
+<div class="highlight"><pre><span class="err">$</span>  <span class="n">git</span> <span class="n">clone</span> <span class="n">https</span><span class="o">:</span><span class="c1">//github.com/kdzm/kdzm.github.io.git  ./clone_one</span>
+<span class="err">$</span>  <span class="n">cd</span>  <span class="p">.</span><span class="o">/</span><span class="n">cone</span>
+<span class="err">$</span>  <span class="n">touch</span> <span class="n">test</span><span class="p">.</span><span class="n">md</span>
+<span class="err">$</span>  <span class="n">git</span> <span class="n">add</span> <span class="o">--</span><span class="n">all</span>
+<span class="err">$</span>  <span class="n">git</span> <span class="n">status</span>  
+<span class="err">$</span>  <span class="n">git</span> <span class="n">commit</span> <span class="o">-</span><span class="n">m</span> <span class="s">&quot;add some files&quot;</span>
+<span class="err">$</span>  <span class="n">git</span> <span class="n">push</span>
+</pre></div>
+
+
+<p>0x02 git for local
+本地没有软件仓库</p>
+<div class="highlight"><pre><span class="err">$</span>  <span class="n">mkdir</span> <span class="n">tmp</span>
+<span class="err">$</span>  <span class="n">cd</span> <span class="n">tmp</span>
+<span class="err">$</span>  <span class="n">git</span> <span class="n">init</span>
+<span class="err">$</span>  <span class="n">touch</span> <span class="n">test</span><span class="p">.</span><span class="n">md</span>
+<span class="err">$</span>  <span class="n">git</span> <span class="n">add ...</span></pre></div>
+                    <a class="btn btn-default btn-xs" href="./git-01.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
             <article>
                 <h2><a href="./example.html">示例页面</a></h2>
                 <div class="summary"><p>这是示范页面。页面和博客文章不同，它的位置是固定的，通常会在站点导航栏显示。很多用户都创建一个“关于”页面，向访客介绍自己。例如，个人博客通常有类似这样的介绍：
@@ -105,6 +133,11 @@ kdz orz            </a>
                         <li class="list-group-item tag-4">
                             <a href="./tag/example.html">
                                 example
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="./tag/git.html">
+                                git
                             </a>
                         </li>
                         <li class="list-group-item tag-4">
