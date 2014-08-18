@@ -25,13 +25,13 @@
 &lt;/pre&gt;&lt;/div&gt;
 
 
-&lt;p&gt;以上用到的命令说明
-1.  mkdir tmp 在当前目录下创建一个新的目录 tmp
-2.  cd tmp 切换到tmp目录下
-3.  git init tmp目录作为一个本地仓库，初始库git库
-4.  touch test.md 在当前目录下创建了文件 test.md
-5.  git add test.md 将test.md文件增加到本地git库中
-6.  git commit -am 'commit' 提交，让上条增加文件命令生效
-7   git remote add 向本地仓库中填加远程仓库地址，远程仓库地址别名是origin
-8.  git pull origin master 将orgin所代表的远程仓库地址里的master主干下载到本地仓库，即上传之 前先进行一次同步
-9.  git push -u origin master将本地仓库上传到origin所代表的远程仓库的master分支上&lt;/p&gt;</summary><category term="git"></category></entry></feed>
+&lt;p&gt;以上用到的命令说明:&lt;br&gt;
+1.  mkdir tmp 在当前目录下创建一个新的目录 tmp&lt;br&gt;
+2.  cd tmp 切换到tmp目录下&lt;br&gt;
+3.  git init tmp目录作为一个本地仓库，初始库git库&lt;br&gt;
+4.  touch test.md 在当前目录下创建了文件 test.md&lt;br&gt;
+5.  git add test.md 将test.md文件增加到本地git库中&lt;br&gt;
+6.  git commit -am 'commit' 提交，让上条增加文件命令生效&lt;br&gt;
+7   git remote add 向本地仓库中填加远程仓库地址，远程仓库地址别名是origin&lt;br&gt;
+8.  git pull origin master 将orgin所代表的远程仓库地址里的master主干下载到本地仓库，即上传之 前先进行一次同步&lt;br&gt;
+9.  git push -u origin master将本地仓库上传到origin所代表的远程仓库的master分支上&lt;br&gt;&lt;/p&gt;</summary><category term="git"></category></entry></feed>
